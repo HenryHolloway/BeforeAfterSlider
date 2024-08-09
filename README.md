@@ -6,7 +6,9 @@ This project is a WordPress plugin designed to provide an elegant and interactiv
 
 Check out the demo video to see the plugin in action:
 
-![Demo Video](DEMO.webm)
+<video src="DEMO.webm" controls="controls" style="max-width: 100%; height: auto;">
+    Your browser does not support the video tag.
+</video>
 
 ## Features
 
