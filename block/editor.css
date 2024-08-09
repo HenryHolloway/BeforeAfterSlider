@@ -1,0 +1,10 @@
+.editor-slider-container {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+.editor-slider-container img {
+    width: 48%;
+    height: auto;
+}
